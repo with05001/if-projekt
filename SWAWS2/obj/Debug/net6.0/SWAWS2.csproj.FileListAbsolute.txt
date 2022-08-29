@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\SWAWS2\bin\Debug\net6.0\SWAWS2.exe
+C:\Users\Admin\Documents\SWAWS2\bin\Debug\net6.0\SWAWS2.deps.json
+C:\Users\Admin\Documents\SWAWS2\bin\Debug\net6.0\SWAWS2.runtimeconfig.json
+C:\Users\Admin\Documents\SWAWS2\bin\Debug\net6.0\SWAWS2.dll
+C:\Users\Admin\Documents\SWAWS2\bin\Debug\net6.0\SWAWS2.pdb
+C:\Users\Admin\Documents\SWAWS2\obj\Debug\net6.0\SWAWS2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SWAWS2\obj\Debug\net6.0\SWAWS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SWAWS2\obj\Debug\net6.0\SWAWS2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SWAWS2\obj\Debug\net6.0\SWAWS2.AssemblyInfo.cs
+C:\Users\Admin\Documents\SWAWS2\obj\Debug\net6.0\SWAWS2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SWAWS2\obj\Debug\net6.0\SWAWS2.dll
+C:\Users\Admin\Documents\SWAWS2\obj\Debug\net6.0\refint\SWAWS2.dll
+C:\Users\Admin\Documents\SWAWS2\obj\Debug\net6.0\SWAWS2.pdb
+C:\Users\Admin\Documents\SWAWS2\obj\Debug\net6.0\SWAWS2.genruntimeconfig.cache
+C:\Users\Admin\Documents\SWAWS2\obj\Debug\net6.0\ref\SWAWS2.dll
